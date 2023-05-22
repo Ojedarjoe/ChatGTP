@@ -1,4 +1,4 @@
-#Ojeda Rodriguez Jose Jaime
+#Ojeda Rodriguez Jose Jaime https://github.com/Ojedarjoe/ChatGTP/tree/main
 
 import json
 import os
